@@ -1,5 +1,5 @@
 # Behind-The-Buzz-Project
-The specifics of the machine learning model in the code:
+The specifics of the machine learning model in the code: https://colab.research.google.com/drive/1TnoL5qE7Eb7M5-Jkn5hwAT5JX0X9t1on?usp=sharing
 
 Data loading and preprocessing: The first step is to load the training data from a CSV file using Pandas library. The dataset is then split into two parts, training set and validation set using the train_test_split function from scikit-learn library.
 
